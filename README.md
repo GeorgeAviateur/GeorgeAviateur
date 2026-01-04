@@ -139,3 +139,10 @@ Music keeps my engineering honest: structure matters, timing matters, and practi
   <img src="https://skillicons.dev/icons?i=ableton&theme=dark" />
 </p>
 
+
+---
+
+### :alien: Things I build
+
+Scroll down to explore public projects where ideas turn into working systems.  :arrow_heading_down:
+
