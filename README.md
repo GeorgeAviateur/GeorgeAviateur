@@ -85,27 +85,6 @@ Planned, designed, implemented, deployed, and maintained the full solution end-t
 - Introduced a modern, traceable digital workflow in a highly regulated environment in Colombia  
 - Delivered **on time** and successfully adopted in production
 
-### 📌 Inspection Management Modules (SOH ERP)
-
-**Context**  
-Safety & Occupational Health ERP platform requiring structured inspection processes, traceability, and recurring control mechanisms.
-
-**My role**  
-Designed and delivered **4 inspection-focused modules**, integrating administrative configuration with operational execution.
-
-**Modules delivered**  
-- Inspection model / template creation (admin)  
-- Inspection execution by responsible personnel  
-- Visibility of open and closed inspections  
-- Recurrence control and scheduling for periodic inspections
-
-**Impact**  
-- Standardized inspection processes across the organization  
-- Improved visibility and follow-up of inspection results  
-- Enabled recurring inspections without manual overhead  
-- Contributed to consistent, on-time ERP deliveries in production
-
-
 ### 📌 PPE Delivery Management Modules (SOH ERP)
 
 **Context**  
