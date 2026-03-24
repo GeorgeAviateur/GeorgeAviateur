@@ -95,7 +95,7 @@ Designed, developed, and delivered **6 functional modules**, working closely wit
 
 **Modules delivered**  
 - Employee PPE request submission  
-- Administrative review and approval / rejection of requests  
+- Administrative review and approval/rejection of requests  
 - Delivery planning and scheduling (admin)  
 - PPE delivery execution (admin)  
 - Employee acceptance confirmation  
@@ -106,6 +106,29 @@ Designed, developed, and delivered **6 functional modules**, working closely wit
 - Improved control and traceability for compliance purposes  
 - Contributed to a **97% on-time delivery rate** across SOH ERP projects  
 - Stable usage in production environments
+
+### 📌 Videogames in Unity and JavaScript
+
+**Context**  
+Multimedia projects such as Video Games, e-Books, and learning materials.
+
+**My role**  
+Development and deployment of video games, working closely with Graphic designers, Teachers, and different stakeholders.
+
+**Games delivered**  
+- 1948: Hidden-object phone game telling the story of one of the government leaders in Colombia.
+- El bosque de Hiria: RPG mobile game for visually impaired people.
+- Papelador: Mini game to dress a character.
+- Constelaciones: Mini game to link the points on a board.
+- "El cactus de la memoria": E-Book about a historical moment in Colombia. 
+
+** Previews **  
+
+<img width="1280" height="800" alt="portada" src="https://github.com/user-attachments/assets/207463fb-3267-4230-8bc6-e8f658f1bcba" />
+
+![Screenshot 9](https://github.com/user-attachments/assets/9b9c8c55-5b4d-41f0-afcc-7a0fcef587ac)
+<img width="2400" height="1080" alt="Screenshot_20240103-133440" src="https://github.com/user-attachments/assets/3cf33665-1dfb-4e4b-9b51-b5fc935feb3a" />
+<img width="2400" height="1080" alt="Screenshot_20240103-133509" src="https://github.com/user-attachments/assets/b33eb9cb-6a31-471c-bedf-add2e9e4ac9a" />
 
 ---
 
